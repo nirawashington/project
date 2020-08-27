@@ -1,0 +1,43 @@
+<!DOCTYPEhtml>
+<html>
+     <head>
+         <title> HTML Cheat Sheet</title>
+        </head>
+       <body>
+           <h1> Heading One</h1>
+           <h2>Heading Two</h2>
+           <h3>Heading Three</h3>
+           <h4>Heading Four</h4>
+           <h5>Heading Five</h5>
+           <h6>Heading Six</h6>
+
+<!-- Paragraph -->
+
+           <p>
+             lorem food dogs cats sunshine BTS <strong> Kim Namjoon Kim Seokjin Min Yoongi Jung Hoseok Park Jimin Jeon Jungkook </strong> Blackpink ITZY Twice iKon Ateez TXT Mamamoo EXO
+             </p>
+
+<!-- Unordered List -->
+
+             <ul>
+               <li>List Item 1</li>
+               <li>List Item 2</li>
+               <li>List Item 3</li>
+               <li>List Item 4</li>
+             </ul>
+
+<-- Ordered -->
+
+               <ol
+               <li>List Item 1</li>
+               <li>List Item 2</li>
+               <li>List Item 3</li>
+               <li>List Item 4</li>
+             </ol>
+
+
+<!-- Table --
+
+            
+       </body>
+</html>
